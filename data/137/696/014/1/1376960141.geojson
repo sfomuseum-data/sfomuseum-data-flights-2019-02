@@ -69,11 +69,11 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1550161393,
+    "wof:lastmodified":1601338120,
     "wof:name":"WN2162 (SFO-MDW)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -68,11 +68,11 @@
         102547051,
         1159284211
     ],
-    "wof:lastmodified":1549502218,
+    "wof:lastmodified":1601336616,
     "wof:name":"CM382 (PTY-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

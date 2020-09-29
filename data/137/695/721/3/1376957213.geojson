@@ -73,11 +73,11 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1550161297,
+    "wof:lastmodified":1601337271,
     "wof:name":"AV2036 (SFO-SEA)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -69,11 +69,11 @@
         1159284261,
         1159157661
     ],
-    "wof:lastmodified":1549502225,
+    "wof:lastmodified":1601336572,
     "wof:name":"DL2777 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

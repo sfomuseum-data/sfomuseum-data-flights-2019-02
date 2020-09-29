@@ -67,11 +67,11 @@
         1159283495,
         1159157657
     ],
-    "wof:lastmodified":1549901874,
+    "wof:lastmodified":1601337146,
     "wof:name":"EI147 (DUB-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

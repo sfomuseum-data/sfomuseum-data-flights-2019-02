@@ -67,11 +67,11 @@
         1159283813,
         1159157649
     ],
-    "wof:lastmodified":1550853275,
+    "wof:lastmodified":1601336008,
     "wof:name":"AS1931 (LAS-SFO)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

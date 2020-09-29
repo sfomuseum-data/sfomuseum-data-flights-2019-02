@@ -73,11 +73,11 @@
         1159157607,
         1159283957
     ],
-    "wof:lastmodified":1549305126,
+    "wof:lastmodified":1601336401,
     "wof:name":"TK9406 (SFO-SAL)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

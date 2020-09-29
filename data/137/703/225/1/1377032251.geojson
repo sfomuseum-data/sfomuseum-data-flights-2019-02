@@ -69,11 +69,11 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1551026273,
+    "wof:lastmodified":1601337584,
     "wof:name":"WN2485 (SFO-LAS)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

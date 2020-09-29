@@ -69,11 +69,11 @@
         1159284261,
         1159157663
     ],
-    "wof:lastmodified":1550161340,
+    "wof:lastmodified":1601337189,
     "wof:name":"DL5799 (SFO-SEA)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

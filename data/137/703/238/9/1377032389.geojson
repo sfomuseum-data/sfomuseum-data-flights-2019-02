@@ -69,11 +69,11 @@
         1159285043,
         1159157635
     ],
-    "wof:lastmodified":1551026278,
+    "wof:lastmodified":1601337590,
     "wof:name":"QF50 (SFO-MEL)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

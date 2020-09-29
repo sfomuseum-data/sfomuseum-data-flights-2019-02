@@ -67,11 +67,11 @@
         1159283813,
         1159157705
     ],
-    "wof:lastmodified":1549815330,
+    "wof:lastmodified":1601337136,
     "wof:name":"AS1025 (JFK-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-02",
+    "wof:repo":"sfomuseum-data-flights-2019-02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

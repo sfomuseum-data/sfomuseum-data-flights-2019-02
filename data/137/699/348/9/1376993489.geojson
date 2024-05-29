@@ -70,10 +70,13 @@
       1159283813,
       1159157649
     ],
-    "wof:lastmodified": 1651515014,
+    "wof:lastmodified": 1717005582,
     "wof:name": "AS755 (SFO-KOA)",
     "wof:parent_id": 1159157649,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-02",
     "wof:superseded_by": [],
     "wof:supersedes": [],
